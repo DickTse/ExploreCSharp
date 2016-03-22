@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MultithreadSingleton")]
+[assembly: AssemblyTitle("COMControl")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MultithreadSingleton")]
+[assembly: AssemblyProduct("COMControl")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8388d828-d9b7-4797-a799-4247cd4719da")]
+[assembly: Guid("2ecd43a6-22fa-485f-a6fb-e9af77b1ecdc")]
 
 // Version information for an assembly consists of the following four values:
 //
