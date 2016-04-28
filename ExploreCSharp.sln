@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2010
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadSingleton", "MultithreadSingleton\MultithreadSingleton.csproj", "{CEF7C7DD-9373-4001-983F-20AF642C42BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMControl", "COMControl\COMControl.csproj", "{E8ABBBF4-20D1-4833-B01A-2073CCF25A60}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonAndDerivedClass", "SingletonAndDerivedClass\SingletonAndDerivedClass.csproj", "{EAD7ED2F-3456-4DFE-92EF-0B46AEB71B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceCondition", "RaceCondition\RaceCondition.csproj", "{93B9CA3B-2CDF-4061-8066-EECF09321197}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +51,18 @@ Global
 		{EAD7ED2F-3456-4DFE-92EF-0B46AEB71B1F}.Release|Mixed Platforms.Build.0 = Release|x86
 		{EAD7ED2F-3456-4DFE-92EF-0B46AEB71B1F}.Release|x86.ActiveCfg = Release|x86
 		{EAD7ED2F-3456-4DFE-92EF-0B46AEB71B1F}.Release|x86.Build.0 = Release|x86
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Debug|x86.Build.0 = Debug|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Release|x86.ActiveCfg = Release|Any CPU
+		{93B9CA3B-2CDF-4061-8066-EECF09321197}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
