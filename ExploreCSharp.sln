@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{90DE0703-E52B-44C7-A7B4-C5E5D1455297}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploreFormInheritance", "ExploreFormInheritance\ExploreFormInheritance.csproj", "{7A2F040F-998A-4ADF-BD7A-1C497744693D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number", "Number\Number.csproj", "{CA0CD446-C0D2-49CC-ADFD-3B51F13357D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedLengthFileReader", "FixedLengthFileReader\FixedLengthFileReader.csproj", "{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +117,20 @@ Global
 		{90DE0703-E52B-44C7-A7B4-C5E5D1455297}.Release|x64.Build.0 = Release|x64
 		{90DE0703-E52B-44C7-A7B4-C5E5D1455297}.Release|x86.ActiveCfg = Release|Any CPU
 		{90DE0703-E52B-44C7-A7B4-C5E5D1455297}.Release|x86.Build.0 = Release|Any CPU
+		{CA0CD446-C0D2-49CC-ADFD-3B51F13357D6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CA0CD446-C0D2-49CC-ADFD-3B51F13357D6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CA0CD446-C0D2-49CC-ADFD-3B51F13357D6}.Release|x86.ActiveCfg = Release|x86
+		{CA0CD446-C0D2-49CC-ADFD-3B51F13357D6}.Release|x86.Build.0 = Release|x86
+		{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}.Debug|x86.ActiveCfg = Debug|x86
+		{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}.Debug|x86.Build.0 = Debug|x86
+		{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}.Release|Any CPU.ActiveCfg = Release|x86
+		{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}.Release|x86.ActiveCfg = Release|x86
+		{A991ECE9-80B6-4C44-9069-9F81A7FCB7FD}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
